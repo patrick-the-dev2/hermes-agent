@@ -57,6 +57,7 @@ ENV_VARS = [
     ("GLM_API_KEY",              "GLM / Z.AI",               "provider",  True),
     ("KIMI_API_KEY",             "Kimi",                     "provider",  True),
     ("MINIMAX_API_KEY",          "MiniMax",                  "provider",  True),
+    ("NVIDIA_API_KEY",           "NVIDIA",                   "provider",  True),
     ("HF_TOKEN",                 "Hugging Face",             "provider",  True),
     ("PARALLEL_API_KEY",         "Parallel (search)",        "tool",      True),
     ("FIRECRAWL_API_KEY",        "Firecrawl (scrape)",       "tool",      True),
